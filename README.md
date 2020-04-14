@@ -12,8 +12,8 @@ GENERAL INFORMATION
 2. Author Information
 
 Name: Hansen Karyakose 
-Institution: Carnegie Mellon University
-Address: 4909 Frew Street, Pittsburgh, PA 15213
+Institution: 
+Address: 
 Email: 
 Phone Number: 
 DATA & FILE OVERVIEW
