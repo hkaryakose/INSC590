@@ -1,4 +1,4 @@
-# INSC590-OSF Project - Group 1  
+# INSC590-OSF Project: Group 1  
 Reproducible README:  
 This README.md file was generated on 2020-04-15
 ## DOI:
