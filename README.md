@@ -1,50 +1,9 @@
-# INSC590
-INSC590-OSF Project -
-Reproducible README:
-This README.md file was generated on 2020-04-11 by Hansen Karyakose (ORCID: 0000-0002-7001-1739)
+# INSC590-OSF Project - Group 1  
+Reproducible README:  
+This README.md file was generated on 2020-04-11
+## DOI:
 
+# GENERAL INFORMATION
+**1. Title of Project:** OSF INSC 590 - Group 1 - The Impact of Money Invested and the Return in  Medals at the Summer Olympics , 1960-2008
 
-DOI
-
-GENERAL INFORMATION
-1. Title of Dataset: 
-
-2. Author Information
-
-Name: Hansen Karyakose 
-Institution: 
-Address: 
-Email: 
-Phone Number: 
-DATA & FILE OVERVIEW
-Directory of Files:
-Filename: 
-
-Short description: 
-
-Additional Notes on File Relationships, Context, or Content
-(for example, if a user wants to reuse and/or cite your data, what information would you want them to know?):
-
-Data Pulled From:
-
-
-
-4. Variable List
-
-A. Name: Business Name
-   Description: The exact name of the business that is named after the Grateful Dead (confirmed or presumed) as shown on  	     whitepages.com. Field accepts text and numeric characters. 
-
-
-1. Software-specific information:
-
-Name: Microsoft Office - Excel
-Version: Windows 7
-System Requirements: Windows or Apple computer
-Open Source? (Y/N): N
-
-Additional Notes:
-
-Although the dataset was generated in Excel, I have uploaded a CSV version of this file which can be viewed and analyzed on any operating system, including Linux.
-
-
-4. Reproducibility Notes: 
+This project makes use of a variety of open-source data to explore the impact of money invested in Olympic programs around the world and the return realized in terms of medals won. Like scientific data, quantitative studies in the humanities rely on well-sourced, accurate data. Increasingly powerful computers allow for the automated harvesting of extremely large datasets. These datasets, in turn, make it possible to explore a broad range of questions. The question that interests us, in particular, is whether patterns emerge when exploring the financial investment in Olympic sports that always correlate with the number of medals earned. Or, are there cases where countries, particularly those that are smaller and less well funded, enjoy a consistent or sustained success in certain events.
