@@ -1,7 +1,7 @@
 # INSC590-OSF Project - Group 1  
 Reproducible README:  
 This README.md file was generated on 2020-04-11
-## DOI:
+
 
 # GENERAL INFORMATION
 **1. Title of Project:** OSF INSC 590 - Group 1 - The Impact of Money Invested and the Return in  Medals at the Summer Olympics , 1960-2008
@@ -10,13 +10,13 @@ This project makes use of a variety of open-source data to explore the impact of
   
 **2. URL to OSF Project:** https://osf.io/9bq5r/
   
-**3. Contributor Information**
-
+**3. Contributor Information**  
+  
 **Name:** Tom Finn  
 **Institution:** University of Tennessee, Knoxville  
 **Email:** tfinn@vols.utk.edu  
 **ORCID ID:** 0000-0002-7892-6669
-
+  
 **Name:** Hansen Karyakose  
 **Institution:** University of Tennessee, Knoxville  
 **Email:** hkaryako@vols.utk.edu  
@@ -26,7 +26,7 @@ This project makes use of a variety of open-source data to explore the impact of
 **Institution:** University of Tennessee, Knoxville  
 **Email:** jmetz3@vols.utk.edu 
 **ORCID ID:** 0000-0002-6631-9810
-  
+   
 **Name:** Chris Sanders  
 **Institution:** University of Tennessee, Knoxville  
 **Email:** csander9@vols.utk.edu  
@@ -293,6 +293,9 @@ This project makes use of a variety of open-source data to explore the impact of
 All datasets in this project are in Comma Separated Value (CSV) format. This format is interoperable with a wide range of data analysis applications. As a result, these files can be used with many operating systems, including Windows, iOS, or Linux. The Project Team used Microsoft Excel and Google Sheets to view these data.
   
 # Reproducibility Notes
+To reproduce the datasets we have accumulated here, one can download the data from the links provided in the “File Directory” section of this README. All data are free and available for use.  
+  
+In order to provide reproducible analyses of this data, this team recommends that future experimenters document and share the data, software, workflows, and computational environments used for analysis. These elements should include the data in an interoperable format (such as Comma Separated Value) version of the analysis software with instructions on how to install that software, all scripts and libraries used in analysis, and a detailed description of the experimenter’s computational environment including operating system and hardware specifications. These elements should be clearly documented and stored in an open-access repository for future researchers.
   
 # License
   
